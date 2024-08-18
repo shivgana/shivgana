@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi objects 👋
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=kumarkaushal920 alt=kumarkaushal920/></p>
 
-<!--
-**shivgana/shivgana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Shivshankar Ganapuram, a DevOps Engineer with over 3 years of experience, primarily in the telecom domain. I specialize in building and maintaining CI/CD pipelines, container orchestration, and deploying microservices with Kubernetes and Helm.
 
-Here are some ideas to get you started:
+🔧 Skills
+Languages & Scripting: Bash, Python, Golang
+CI/CD: GitLab CI, Jenkins
+Version Control: Git, GitHub, Gerrit, GitLab
+Containers: Docker, Podman
+Orchestration: Kubernetes, Helm
+Infrastructure as Code: Terraform
+Monitoring & Logging: Prometheus, Grafana, Loki
+Security Tools: SonarQube, JFrog Xray, Trivy, OWASP ZAP
+Cluster Networking: Istio
+Other Tools: Ansible, Jira, Confluence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
