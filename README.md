@@ -1,4 +1,4 @@
-## Hi objects 👋
+## Hi 👋
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=shivgana alt=shivgana/></p>
 
 Hello! I'm Shivshankar Ganapuram, a DevOps Engineer with over 3 years of experience, primarily in the telecom domain. I specialize in building and maintaining CI/CD pipelines, container orchestration, and deploying microservices with Kubernetes and Helm.
