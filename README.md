@@ -1,6 +1,6 @@
 ## Hi 👋
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=shivgana alt=shivgana/></p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 Hello! I'm Shivshankar Ganapuram, a DevOps Engineer with over 3 years of experience, primarily in the telecom domain. I specialize in building and maintaining CI/CD pipelines, container orchestration, and deploying microservices with Kubernetes and Helm.
 
 🔧 Skills
